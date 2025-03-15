@@ -25,7 +25,7 @@ This project is implemented using the following technologies:<br>
 • threading – Ensures smooth execution without interrupting other processes.<br>
 • json – Stores configuration settings for customization.<br><br>
 
-✨ Features<br>
+🚀 Features of Keylogger<br>
 1️⃣ Keystroke Logging – Captures and records all keystrokes.<br>
 2️⃣ Background Execution – Runs silently without disrupting user activity.<br>
 3️⃣ Log File Storage – Saves keystrokes into a text file for later review.<br>
